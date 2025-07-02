@@ -6,6 +6,7 @@ This is a final year project built on Shopify that integrates Augmented Reality 
 
 ## 🔧 Features
 - Shopify-based storefront
+- Strong PHP on backend to support products in 3D view
 - 3D models embedded on product pages
 - Augmented Reality via AR.js or WebXR
 - Works on mobile to place products in real space (like furniture)
@@ -19,7 +20,7 @@ This is a final year project built on Shopify that integrates Augmented Reality 
 
 ## 🎥 Demo
 Watch a short demo video:  
-👉 [Insert Your Google Drive or YouTube Link Here]
+👉 https://drive.google.com/drive/folders/1XBC1W2foZ2MsRmLTOabJT591mnGEIqGB?usp=drive_link
 
 ## 📌 Note
 This is a functional prototype created for academic purposes and is not hosted live.
